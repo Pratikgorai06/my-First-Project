@@ -1,7 +1,7 @@
 # my-First-Project
 
 My First Project.
-Learning about Git & Github
+Learning about Git & Github.
 
 # Teacher
 

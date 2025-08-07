@@ -1,7 +1,8 @@
 # my-First-Project
 
 My First Project.
-Learning about Git & Github.
+Tried to make the cards scrollabe and responsive
+useful for making reviews in website
 
 # Teacher
 

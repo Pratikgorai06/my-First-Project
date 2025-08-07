@@ -3,8 +3,8 @@
   font-family: "Times New Roman", Times, serif;
 }
 .card {
-  height: 300px;
-  width: 200px;
+  height: 18rem;
+  width: 13rem;
   border: 2px gray solid;
   border-radius: 8px;
   background-color: Pink;
@@ -42,8 +42,9 @@ h4 {
 .scroll-container {
   display: flex;
   overflow-x: auto;
-  gap: 16px;
-  padding: 20px 0;
+  gap: 1rem;
+  padding: 1rem 0;
+  margin: 0.5rem;
   scroll-snap-type: x mandatory;
   -webkit-overflow-scrolling: touch;
 }
@@ -51,11 +52,4 @@ h4 {
 .card {
   flex: 0 0 auto;
   scroll-snap-align: start;
-}
-
-@media (max-width: 600px) {
-  .card {
-    width: 80%;
-    min-width: 250px;
-  }
 }
